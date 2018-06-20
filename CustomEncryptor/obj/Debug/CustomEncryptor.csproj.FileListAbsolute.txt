@@ -1,0 +1,14 @@
+c:\users\karan\source\repos\CustomEncryptor\obj\Debug\CustomEncryptor.csprojResolveAssemblyReference.cache
+c:\users\karan\source\repos\CustomEncryptor\obj\Debug\CustomEncryptor.csproj.CoreCompileInputs.cache
+c:\users\karan\source\repos\CustomEncryptor\bin\Debug\CustomEncryptor.exe.config
+c:\users\karan\source\repos\CustomEncryptor\bin\Debug\CustomEncryptor.exe
+c:\users\karan\source\repos\CustomEncryptor\bin\Debug\CustomEncryptor.pdb
+c:\users\karan\source\repos\CustomEncryptor\obj\Debug\CustomEncryptor.exe
+c:\users\karan\source\repos\CustomEncryptor\obj\Debug\CustomEncryptor.pdb
+C:\Users\karan\OneDrive\BSD\Semester7\COMP 400\CustomEncryptor\CustomEncryptor\bin\Debug\CustomEncryptor.exe.config
+C:\Users\karan\OneDrive\BSD\Semester7\COMP 400\CustomEncryptor\CustomEncryptor\bin\Debug\CustomEncryptor.exe
+C:\Users\karan\OneDrive\BSD\Semester7\COMP 400\CustomEncryptor\CustomEncryptor\bin\Debug\CustomEncryptor.pdb
+C:\Users\karan\OneDrive\BSD\Semester7\COMP 400\CustomEncryptor\CustomEncryptor\obj\Debug\CustomEncryptor.csprojResolveAssemblyReference.cache
+C:\Users\karan\OneDrive\BSD\Semester7\COMP 400\CustomEncryptor\CustomEncryptor\obj\Debug\CustomEncryptor.csproj.CoreCompileInputs.cache
+C:\Users\karan\OneDrive\BSD\Semester7\COMP 400\CustomEncryptor\CustomEncryptor\obj\Debug\CustomEncryptor.exe
+C:\Users\karan\OneDrive\BSD\Semester7\COMP 400\CustomEncryptor\CustomEncryptor\obj\Debug\CustomEncryptor.pdb
